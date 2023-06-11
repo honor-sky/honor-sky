@@ -14,7 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+<div align=Left>
+<img src="https://img.shields.io/badge/Blog-EA4AAA?style=flat-square&logo=githubsponsors&logoColor=white"/>
+<img src="https://img.shields.io/badge/keung903@naver.com-03C75A?style=flat-square&logo=Naver&logoColor=white"/>
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/>
+</div>
+<br>
+ 
+ Hi there! I'm **Mobile App Developer** using Android! <br>
+ And I can 
 
 
 
@@ -51,3 +59,5 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Discord-5865F2?style=round-square&logo=Discord&logoColor=white"/>
 <img src="https://img.shields.io/badge/Slack-4A154B?style=round-square&logo=Slack&logoColor=white"/>
 </div>
+
+
