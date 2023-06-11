@@ -15,30 +15,31 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Skills 
+### Tech Stack 
 
-<br>
 <div align=Left>
-<img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white"/>
-<img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
+<img src="https://img.shields.io/badge/Android-3DDC84?style=round-square&logo=Android&logoColor=white"/>
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=round-square&logo=TensorFlow&logoColor=white"/>
+<img src="https://img.shields.io/badge/Django-092E20?style=round-square&logo=Django&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=round-square&logo=MySQL&logoColor=white"/>
  <br>
-<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white"/>
-<img src="https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=JAVA&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
-<img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=R&logoColor=white"/>
+<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=round-square&logo=Kotlin&logoColor=white"/>
+<img src="https://img.shields.io/badge/JAVA-007396?style=round-square&logo=JAVA&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=round-square&logo=Python&logoColor=white"/>
+<img src="https://img.shields.io/badge/R-276DC3?style=round-square&logo=R&logoColor=white"/>
 </div>
 
-<br>
+### I've used
 
-Tools
-<br>
 <div align=Left>
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white"/>
-<img src="https://img.shields.io/badge/Google Colab-F9AB00?style=flat-square&logo=Google Colab&logoColor=white"/>
-</div>
-
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=round-square&logo=Figma&logoColor=white"/>
+<img src="https://img.shields.io/badge/Google Colab-F9AB00?style=round-square&logo=Google Colab&logoColor=white"/>
+<img src="https://img.shields.io/badge/Android Studio-F9AB00?style=round-square&logo=Android Studio&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pycharm-000000?style=round-square&logo=Pycharm&logoColor=white"/>
+<img src="https://img.shields.io/badge/RStudio-75AADB?style=round-square&logo=RStudio&logoColor=white"/>
+<img src="https://img.shields.io/badge/Intellij Idea-000000?style=round-square&logo=Intellij Idea&logoColor=white"/>
 <br>
-
-Language
+<img src="https://img.shields.io/badge/GitHib-181717?style=round-square&logo=GitHib&logoColor=white"/>
+<img src="https://img.shields.io/badge/Discord-5865F2?style=round-square&logo=Discord&logoColor=white"/>
+<img src="https://img.shields.io/badge/Slack-4A154B?style=round-square&logo=Slack&logoColor=white"/>
+</div>
