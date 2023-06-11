@@ -21,9 +21,8 @@ Here are some ideas to get you started:
 </div>
 <br>
  
-👋🏻 Hi there! I'm **Mobile App Developer** using Android! 👩🏻‍💻 📱 <br>
-Also I develop AI models such as prediction & computer vision <br>
-So I really interested in applying AI to mobile app!!
+👋🏻 Hi there! I'm **AI Android App Developer** !! 👩🏻‍💻 📱 <br>
+Really interested in applying such as prediction & computer vision model to mobile app!!
 
 I enjoy hand-mading, swimming, traveling worldwide! 🏊🏻‍♀️ 🧶 🎨 🏔<br>
 I love all of nature 🌳 <br>
@@ -34,7 +33,12 @@ I hope to develope somthing beatiful 😄 ✨
 
 
 ## Project & Experience
-- (22.05 ~ 23.07) 단국대학교 생명정보기술 연구실 학부연구생
+- (23.03 ~ 23.06) 인공지능 기반 카메라 앱개발_ Phodo 
+- (21.10 ~ 21.11) 단국대 앱개발 경진대회 '경소톤' 은상 수상_ Aniverse 
+- (22.07 ~ 22.08) 다우기술 장학 인턴
+- (22.04 ~ 22.05) ICCTA 논문 발표 및 해외 세미나 참석_ 대사증후군 예측모델을 활용한 오분류 데이터 분석
+- (22.09 ~ 22.10) 한국정보처리학회 ACK 2022 학술 논문 발표_ 이미지증강을 통한 황반변성 예측 모델 개발
+- (22.05 ~ 23.07) 단국대학교 생명정보기술 연구실 학부연구생_ 연구과제 관리 및 연구활동
 
 
 <br>
