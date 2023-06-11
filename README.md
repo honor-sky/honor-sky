@@ -29,13 +29,17 @@ I enjoy hand-mading, swimming, traveling worldwide! 🏊🏻‍♀️ 🧶 🎨 
 I love all of nature 🌳 <br>
 I hope to develope somthing beatiful 😄 ✨ 
 <!--improving performance using feature selection-->
-
+<br>
+<br>
 
 
 ## Project & Experience
 - (22.05 ~ 23.07) 단국대학교 생명정보기술 연구실 학부연구생
 
 
+<br>
+<br>
+<br>
 <div align=Center>
 <center>  Skills  💪 </center> 
 <br>
