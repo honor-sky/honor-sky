@@ -35,7 +35,7 @@ I hope to develope somthing beatiful 😄 ✨
 
 
 ## Project & Experience
-❤️ (23.03 ~ 23.06) Camera App Based AI & Map -> "Phodo" (Android) @Phodo <br>
+❤️  (23.03 ~ 23.06) Camera App Based AI & Map -> "Phodo" (Android) @Phodo <br>
 🧡 (21.10 ~ 21.11) DKU Gyeongsotone Awards 2rd -> "Aniverse" (Android) @Aniverse <br>
 💛 (22.11 ~ 22.11) DKU x Daou Contest Awards 3rd -> <br>
 💚 (22.04 ~ 22.05) ICCTA 논문 발표 [Analysis of Misclassified Cases in a Metabolic SyndromePrediction Model] <br>
