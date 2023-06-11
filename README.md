@@ -21,11 +21,11 @@ Here are some ideas to get you started:
 </div>
 <br>
  
-Hi there! I'm **Mobile App Developer** using Android! 👩🏻‍💻 📱 <br>
+👋🏻 Hi there! I'm **Mobile App Developer** using Android! 👩🏻‍💻 📱 <br>
 Also I develop AI models such as prediction & computer vision <br>
 So I really interested in applying AI to mobile app!!
 
-I enjoy hand-mading, swimming, traveling world 🏊🏻‍♀️ 🎨 🏔<br>
+I enjoy hand-mading, swimming, traveling worldwide! 🏊🏻‍♀️ 🧶 🎨 🏔<br>
 I love all of nature 🌳 <br>
 I hope to develope somthing beatiful 😄 ✨ 
 <!--improving performance using feature selection-->
@@ -33,7 +33,7 @@ I hope to develope somthing beatiful 😄 ✨
 
 
 ## Project & Experience
-
+- (22.05 ~ 23.07) 단국대학교 생명정보기술 연구실 학부연구생
 
 
 <div align=Center>
