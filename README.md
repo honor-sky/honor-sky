@@ -35,14 +35,12 @@ I hope to develope somthing beatiful 😄 ✨
 
 
 ## Project & Experience
-- (23.03 ~ 23.06) 인공지능 기반 카메라 앱개발_ Phodo <a href="https://studyroadmap-kkm.tistory.com/">
-<img src="https://img.shields.io/badge/Blog-EA4AAA?style=flat-square&logo=githubsponsors&logoColor=white"/>
-</a>
-- (21.10 ~ 21.11) 단국대 앱개발 경진대회 '경소톤' 은상 수상_ Aniverse 
-- (22.07 ~ 22.08) 다우기술 장학 인턴
-- (22.04 ~ 22.05) ICCTA 논문 발표 및 해외 세미나 참석_ 대사증후군 예측모델을 활용한 오분류 데이터 분석
-- (22.09 ~ 22.10) 한국정보처리학회 ACK 2022 학술 논문 발표_ 이미지증강을 통한 황반변성 예측 모델 개발
-- (22.05 ~ 23.07) 단국대학교 생명정보기술 연구실 학부연구생_ 연구과제 관리 및 연구활동
+- (23.03 ~ 23.06) Camera App Based AI & Map -> "Phodo" (Android) @Phodo
+- (21.10 ~ 21.11) DKU Gyeongsotone Awards 2rd -> "Aniverse" (Android) @Aniverse
+- (22.07 ~ 22.08) Daou Tech -> Scholarship Intern 
+- (22.04 ~ 22.05) ICCTA 논문 발표 및 해외 세미나 참석_ [Analysis of Misclassified Cases in a Metabolic SyndromePrediction Model]
+- (22.09 ~ 22.10) 한국정보처리학회 ACK 2022 학술 논문 발표_ [Development of A Macular Degeneration Predictive ModelBased on Transfer Learning]
+- (22.05 ~ 23.07) DKU Bio-Data-Tech Lab Student -> project management and research activities
 
 
 <br>
