@@ -21,9 +21,17 @@ Here are some ideas to get you started:
 </div>
 <br>
  
- Hi there! I'm **Mobile App Developer** using Android! <br>
- And I can 
+Hi there! I'm **Mobile App Developer** using Android! <br>
+Also I develop AI models such as prediction & computer vision <br>
+So I really interested in applying AI to mobile app!!
 
+I enjoy swimming, traveling, making, studying other language <br>
+I hope to develope somthing beatiful 
+<!--improving performance using feature selection-->
+
+
+
+## Project & Experience
 
 
 
