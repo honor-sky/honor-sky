@@ -15,7 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div align=Left>
+<a href="https://studyroadmap-kkm.tistory.com/">
 <img src="https://img.shields.io/badge/Blog-EA4AAA?style=flat-square&logo=githubsponsors&logoColor=white"/>
+</a>
 <img src="https://img.shields.io/badge/keung903@naver.com-03C75A?style=flat-square&logo=Naver&logoColor=white"/>
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/>
 </div>
@@ -45,7 +47,7 @@ I hope to develope somthing beatiful 😄 ✨
 <br>
 <br>
 <div align=Center>
-<center> 💪 Skills  </center> 
+<center> 💪  Skills  </center> 
 <br>
 <br>
 <img src="https://img.shields.io/badge/Android-3DDC84?style=round-square&logo=Android&logoColor=white"/>
@@ -62,7 +64,7 @@ I hope to develope somthing beatiful 😄 ✨
 <br>
  
 <div align=Center>
-<center> 🌱 I've used  </center> 
+<center> 🌱  I've used  </center> 
 <br>
 <br>
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=round-square&logo=Figma&logoColor=white"/>
