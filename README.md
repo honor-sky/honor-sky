@@ -15,9 +15,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Tech Stack 
 
-<div align=Left>
+
+
+
+<div align=Center>
+<center>  Skills  💪 </center> 
+<br>
+<br>
 <img src="https://img.shields.io/badge/Android-3DDC84?style=round-square&logo=Android&logoColor=white"/>
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=round-square&logo=TensorFlow&logoColor=white"/>
 <img src="https://img.shields.io/badge/Django-092E20?style=round-square&logo=Django&logoColor=white"/>
@@ -28,10 +33,13 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Python-3776AB?style=round-square&logo=Python&logoColor=white"/>
 <img src="https://img.shields.io/badge/R-276DC3?style=round-square&logo=R&logoColor=white"/>
 </div>
-
-### I've used
-
-<div align=Left>
+<br>
+<br>
+ 
+<div align=Center>
+<center> I've used  🌱  </center> 
+<br>
+<br>
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=round-square&logo=Figma&logoColor=white"/>
 <img src="https://img.shields.io/badge/Google Colab-F9AB00?style=round-square&logo=Google Colab&logoColor=white"/>
 <img src="https://img.shields.io/badge/Android Studio-F9AB00?style=round-square&logo=Android Studio&logoColor=white"/>
