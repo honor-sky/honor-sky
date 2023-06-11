@@ -35,7 +35,9 @@ I hope to develope somthing beatiful 😄 ✨
 
 
 ## Project & Experience
-- (23.03 ~ 23.06) 인공지능 기반 카메라 앱개발_ Phodo 
+- (23.03 ~ 23.06) 인공지능 기반 카메라 앱개발_ Phodo <a href="https://studyroadmap-kkm.tistory.com/">
+<img src="https://img.shields.io/badge/Blog-EA4AAA?style=flat-square&logo=githubsponsors&logoColor=white"/>
+</a>
 - (21.10 ~ 21.11) 단국대 앱개발 경진대회 '경소톤' 은상 수상_ Aniverse 
 - (22.07 ~ 22.08) 다우기술 장학 인턴
 - (22.04 ~ 22.05) ICCTA 논문 발표 및 해외 세미나 참석_ 대사증후군 예측모델을 활용한 오분류 데이터 분석
