@@ -35,15 +35,13 @@ I hope to develope somthing beatiful 😄 ✨
 
 
 ## Project & Experience
-- (23.03 ~ 23.06) Camera App Based AI & Map -> "Phodo" (Android) @Phodo
-- (21.10 ~ 21.11) DKU Gyeongsotone Awards 2rd -> "Aniverse" (Android) @Aniverse
-- (22.11 ~ 22.11) DKU x Daou Contest Awards 3rd -> 
-
-- (22.04 ~ 22.05) ICCTA 논문 발표 및 해외 세미나 참석 [Analysis of Misclassified Cases in a Metabolic SyndromePrediction Model]
-- (22.09 ~ 22.10) ACK 2022 학술 논문 발표 [Development of A Macular Degeneration Predictive ModelBased on Transfer Learning]
-
-- 22.07 ~ 22.08) Daou Tech -> Scholarship Intern
-- (22.05 ~ 23.07) DKU Laboratory Student -> project management and research activities
+❤️ (23.03 ~ 23.06) Camera App Based AI & Map -> "Phodo" (Android) @Phodo <br>
+🧡 (21.10 ~ 21.11) DKU Gyeongsotone Awards 2rd -> "Aniverse" (Android) @Aniverse <br>
+💛 (22.11 ~ 22.11) DKU x Daou Contest Awards 3rd -> <br>
+💚 (22.04 ~ 22.05) ICCTA 논문 발표 및 해외 세미나 참석 [Analysis of Misclassified Cases in a Metabolic SyndromePrediction Model] <br>
+💙 (22.09 ~ 22.10) ACK 2022 학술 논문 발표 [Development of A Macular Degeneration Predictive ModelBased on Transfer Learning] <br>
+💜 (22.07 ~ 22.08) Daou Tech -> Scholarship Intern <br>
+🤍 (22.05 ~ 23.07) DKU Laboratory Student -> project management and research activities <br>
 
 
 <br>
