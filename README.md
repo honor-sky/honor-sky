@@ -45,7 +45,7 @@ I hope to develope somthing beatiful 😄 ✨
 <br>
 <br>
 <div align=Center>
-<center>  Skills  💪 </center> 
+<center> 💪 Skills  </center> 
 <br>
 <br>
 <img src="https://img.shields.io/badge/Android-3DDC84?style=round-square&logo=Android&logoColor=white"/>
@@ -62,7 +62,7 @@ I hope to develope somthing beatiful 😄 ✨
 <br>
  
 <div align=Center>
-<center> I've used  🌱  </center> 
+<center> 🌱 I've used  </center> 
 <br>
 <br>
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=round-square&logo=Figma&logoColor=white"/>
