@@ -18,10 +18,14 @@ Here are some ideas to get you started:
 <a href="https://studyroadmap-kkm.tistory.com/">
 <img src="https://img.shields.io/badge/Blog-EA4AAA?style=flat-square&logo=githubsponsors&logoColor=white"/>
 </a>
+ <a href="[https://studyroadmap-kkm.tistory.com/](https://www.notion.so/GangMini-5d2204c6f0ff47edb36ec7ee2dc3822d)">
+<img src="https://img.shields.io/badge/Notion-EA4AAA?style=flat-square&logo=githubsponsors&logoColor=white"/>
+</a>
 <img src="https://img.shields.io/badge/keung903@naver.com-03C75A?style=flat-square&logo=Naver&logoColor=white"/>
 <img src="https://img.shields.io/badge/@kkaebanjung_danvung-E4405F?style=flat-square&logo=Instagram&logoColor=white"/>
 </div>
 <br>
+
  
 👋🏻 Hi there! I'm **AI Android App Developer** !! 👩🏻‍💻 📱 <br>
 Really interested in applying such as prediction & computer vision model to mobile app!!
