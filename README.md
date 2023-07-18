@@ -39,7 +39,7 @@ I hope to develope somthing beatiful 😄 ✨
 🧡 (21.10 ~ 21.11) DKU Gyeongsotone Awards 2rd -> ["Aniverse" (Android)](https://github.com/honor-sky/Aniverse_Front) <br>
 💛 (22.11 ~ 22.11) DKU x Daou Contest Awards 3rd -> ["Doua Office MeetingRoom Reservator" (Backend)](https://github.com/honor-sky/MeetingRoomReservator)<br>
 💚 (22.04 ~ 22.05) ICCTA 논문 발표 -> [Analysis of Misclassified Cases in a Metabolic SyndromePrediction Model](https://dl.acm.org/doi/abs/10.1145/3543712.3543735) <br>
-💙 (22.09 ~ 22.10) ACK 2022 학술 논문 발표 [Development of A Macular Degeneration Predictive ModelBased on Transfer Learning](https://kiss.kstudy.com/Detail/Ar?key=3988296)
+💙 (22.09 ~ 22.10) ACK 2022 학술 논문 발표 [Development of A Macular Degeneration Predictive ModelBased on Transfer Learning](https://kiss.kstudy.com/Detail/Ar?key=3988296)<br>
 *포토폴리오에 paper 원본 첨부<br>
 💜 (22.07 ~ 22.08) Daou Tech Scholarship Intern <br>
 🤍 (22.05 ~ 23.07) DKU Laboratory Student -> project management and research activities <br>
