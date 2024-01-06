@@ -39,12 +39,14 @@ I hope to develope somthing beatiful 😄 ✨
 
 
 ## Project & Experience
-❤️  (23.03 ~ 23.06) Camera App Based AI & Map -> ["Phodo" (Android)](https://github.com/gang-dan/Phodo-Android) <br>
+❤️ (23.11 ~ 진핼중) Vegan Restaurant Map -> ["AVIRO" (Android)](https://github.com/AVIRO-official/AVIRO-ANDROID) <br>
+❤️ (23.03 ~ 진행중) Camera App Based AI & Map -> ["Phodo" (Android)](https://github.com/gang-dan/Phodo-Android) <br>
 ❤️ (21.10 ~ 21.11) DKU Gyeongsotone Awards 2rd -> ["Aniverse" (Android)](https://github.com/honor-sky/Aniverse_Front) <br>
 ❤️ (22.11 ~ 22.11) DKU x Daou Contest Awards 3rd -> ["Doua Office MeetingRoom Reservator" (Backend)](https://github.com/honor-sky/MeetingRoomReservator)<br>
 ❤️ (22.04 ~ 22.05) ICCTA 논문 발표 -> [Analysis of Misclassified Cases in a Metabolic SyndromePrediction Model](https://dl.acm.org/doi/abs/10.1145/3543712.3543735) <br>
 ❤️ (22.09 ~ 22.10) ACK 2022 학술 논문 발표 -> [Development of A Macular Degeneration Predictive ModelBased on Transfer Learning](https://kiss.kstudy.com/Detail/Ar?key=3988296)<br>
-*포토폴리오에 paper 원본 첨부<br>
+❤️ (23.11 ~ 23.11) 2023 정보기술학회 학술 논문 발표 -> [Development of a People Object Segmentation Technology in Image Data Applicicable to Android Mobile Environment](segmentation/김경민_정보기술학회_2023_final.pdf)<br>
+<br>
 ❤️ (22.07 ~ 22.08) Daou Tech Scholarship Intern <br>
 ❤️ (22.05 ~ 23.07) DKU Laboratory Student -> project management and research activities <br>
 
