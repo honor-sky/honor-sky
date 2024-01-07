@@ -39,7 +39,7 @@ I hope to develope somthing beatiful 😄 ✨
 
 
 ## Project & Experience
-❤️ (23.11 ~ 진핼중) Vegan Restaurant Map -> ["AVIRO" (Android)](https://github.com/AVIRO-official/AVIRO-ANDROID) <br>
+❤️ (23.11 ~ 진행중) Vegan Restaurant Map -> ["AVIRO" (Android)](https://github.com/AVIRO-official/AVIRO-ANDROID) <br>
 ❤️ (23.03 ~ 진행중) Camera App Based AI & Map -> ["Phodo" (Android)](https://github.com/gang-dan/Phodo-Android) <br>
 ❤️ (21.10 ~ 21.11) DKU Gyeongsotone Awards 2rd -> ["Aniverse" (Android)](https://github.com/honor-sky/Aniverse_Front) <br>
 ❤️ (22.11 ~ 22.11) DKU x Daou Contest Awards 3rd -> ["Doua Office MeetingRoom Reservator" (Backend)](https://github.com/honor-sky/MeetingRoomReservator)<br>
