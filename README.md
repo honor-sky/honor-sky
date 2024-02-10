@@ -21,8 +21,10 @@ Here are some ideas to get you started:
  <a href="https://www.notion.so/65bff6f9acb54cc38aa098bb5f48a501">
 <img src="https://img.shields.io/badge/Notion Portfolio-000000?style=flat-square&logo=Notion&logoColor=white"/>
 </a>
+ <a href="https://www.instagram.com/kkaebangjung_danvung/">
 <img src="https://img.shields.io/badge/keung903@naver.com-03C75A?style=flat-square&logo=Naver&logoColor=white"/>
 <img src="https://img.shields.io/badge/@kkaebanjung_danvung-E4405F?style=flat-square&logo=Instagram&logoColor=white"/>
+  </a>
 </div>
 <br>
 
