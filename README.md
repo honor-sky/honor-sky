@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <a href="https://studyroadmap-kkm.tistory.com/">
 <img src="https://img.shields.io/badge/Blog-EA4AAA?style=flat-square&logo=githubsponsors&logoColor=white"/>
 </a>
- <a href="https://www.notion.so/532798b726774fa997b7b87624e44adf">
+ <a href="https://purrfect-catmint-d56.notion.site/5797665143844da2a31c8df43c88c702?pvs=4">
 <img src="https://img.shields.io/badge/Notion Portfolio-000000?style=flat-square&logo=Notion&logoColor=white"/>
 </a>
  <a href="https://www.instagram.com/kkaebangjung_danvung/">
